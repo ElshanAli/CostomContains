@@ -1,0 +1,14 @@
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.exe
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.deps.json
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.runtimeconfig.json
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.runtimeconfig.dev.json
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.dll
+D:\This PC\CostomContains\CostomContains\bin\Debug\netcoreapp3.1\CostomContains.pdb
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.csproj.AssemblyReference.cache
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.AssemblyInfoInputs.cache
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.AssemblyInfo.cs
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.csproj.CoreCompileInputs.cache
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.dll
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.pdb
+D:\This PC\CostomContains\CostomContains\obj\Debug\netcoreapp3.1\CostomContains.genruntimeconfig.cache
